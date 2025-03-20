@@ -1,0 +1,24 @@
+Category,Question,Answer
+Account Management,How do I reset my password?,"Go to settings, select 'Change Password', and follow the instructions."
+Account Management,How do I change my username?,Navigate to 'Profile Settings' and select 'Edit Username'.
+Account Management,How can I update my email address?,Go to account settings and select 'Edit Email' to update it.
+Account Management,How do I delete my account?,Go to account settings and select 'Delete Account'. Follow the prompts to confirm.
+Account Management,How do I secure my account?,Use a strong password and enable two-factor authentication in settings.
+Orders & Payments,Where can I track my order?,Visit the 'Order Status' page and enter your order number.
+Orders & Payments,How do I cancel my order?,"Go to 'My Orders', select the order, and click 'Cancel Order'."
+Orders & Payments,What should I do if my payment fails?,"Check your card details, ensure funds are available, and try again."
+Orders & Payments,How do I request a refund?,"Go to 'My Orders', select the order, and click 'Request Refund'."
+Orders & Payments,Do you support PayPal payments?,"Yes, we accept PayPal along with major credit/debit cards."
+App and Website Help,How do I download the app?,Visit the App Store or Google Play Store and search for our app.
+App and Website Help,What should I do if the app crashes?,"Try closing and reopening the app. If the issue persists, reinstall the app."
+App and Website Help,How do I update the app?,Visit the App Store or Google Play Store and click 'Update'.
+App and Website Help,Can I use the app offline?,"Some features work offline, but an internet connection is required for full functionality."
+Support & Contact,How do I contact customer support?,You can contact support via email at support@example.com or call 123-456-7890.
+Support & Contact,Is customer support available 24/7?,"Yes, our support team is available 24/7."
+Support & Contact,How do I report a bug?,Visit 'Help & Support' and select 'Report a Bug'.
+Support & Contact,Where can I find the terms and conditions?,Check the 'Legal' section at the bottom of our homepage.
+Fun Facts,What is the weather today?,Check your local weather app or website for the latest forecast.
+Fun Facts,What’s the capital of France?,The capital of France is Paris.
+Fun Facts,Who invented the light bulb?,Thomas Edison is credited with inventing the light bulb.
+Fun Facts,How many continents are there?,"There are seven continents: Africa, Antarctica, Asia, Europe, North America, Australia, and South America."
+Fun Facts,Describe Sobika?,Sobika is a well-known dancer and AIML enthusiast.
